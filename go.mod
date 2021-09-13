@@ -1,6 +1,6 @@
 module github.com/jkeys089/deps-scan-test
 
-go 1.15
+go 1.16
 
 require (
 	cloud.google.com/go v0.75.0
