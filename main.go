@@ -39,5 +39,5 @@ import (
 )
 
 func main() {
-	fm.Println("ok")
+	fmt.Println("ok")
 }
